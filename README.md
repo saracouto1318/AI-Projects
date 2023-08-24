@@ -1,6 +1,6 @@
 # AI-Projects
 
-This reporitory contains three *Artificial Intelligence* projects developed while doing a [AI Udemy course](https://www.udemy.com/course/artificial-intelligence-az/) that combines topics like *Data Science*, *Machine Learning*, and *Deep Learning* to develop real-word AI applications.
+This repository contains three *Artificial Intelligence* projects developed while doing an [AI Udemy course](https://www.udemy.com/course/artificial-intelligence-az/) that combines topics like *Data Science*, *Machine Learning*, and *Deep Learning* to develop real-world AI applications.
 
 ## Self-Driving Car
 
@@ -8,7 +8,7 @@ This reporitory contains three *Artificial Intelligence* projects developed whil
 
 ## Doom
 
-[Doom](https://github.com/saracouto1318/AI-Projects/tree/master/Doom) uses *Deep Convolutional Q-Learning* to create an adapted version of game [Doom](https://store.steampowered.com/agecheck/app/379720/).
+[Doom](https://github.com/saracouto1318/AI-Projects/tree/master/Doom) uses *Deep Convolutional Q-Learning* to create an adapted version of the game [Doom](https://store.steampowered.com/agecheck/app/379720/).
 
 ## Breakout
 
